@@ -15,7 +15,7 @@ def send_em(thy_name, released):
 
 
 
-path = 'E:\GRIP\Task 1\\'
+path = '----Enter directory----'
 
 
 listo = os.listdir(path)
